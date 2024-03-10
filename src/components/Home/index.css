@@ -1,0 +1,80 @@
+/* Default styles */
+.bg-container {
+  background-image: url("https://res.cloudinary.com/dlsuy2qn2/image/upload/v1669948738/samples/ecommerce/accessories-bag.jpg");
+  background-size: cover;
+  height: 100vh;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+}
+
+.heading {
+  color: #ffffff;
+  margin-left: 25px;
+  font-size: 45px;
+}
+
+.description {
+  margin-left: 25px;
+  font-size: 25px;
+  font-weight: 500;
+  padding: 5px;
+}
+
+.shop-now {
+  height: 55px;
+  width: 110px;
+  margin-left: 25px;
+  font-size: 17px;
+  border-width: 0px;
+  border-radius: 5px;
+  background-color: orange;
+}
+
+.store-heading {
+  margin-left: 25px;
+  color: orange;
+}
+
+/* Media queries */
+@media only screen and (max-width: 768px) {
+  .heading {
+    font-size: 35px;
+  }
+
+  .description {
+    font-size: 20px;
+  }
+
+  .shop-now {
+    height: 45px;
+    width: 90px;
+    font-size: 15px;
+    margin-left: 25px;
+  }
+
+  .store-heading {
+    font-size: 25px;
+  }
+}
+
+@media only screen and (max-width: 576px) {
+  .heading {
+    font-size: 25px;
+  }
+
+  .description {
+    font-size: 15px;
+  }
+
+  .shop-now {
+    height: 35px;
+    width: 80px;
+    font-size: 13px;
+    margin-left: 20px;
+  }
+
+  .store-heading {
+    font-size: 20px;
+  }
+}

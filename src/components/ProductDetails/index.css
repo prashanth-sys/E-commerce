@@ -1,0 +1,34 @@
+.product {
+  width: 200px;
+  align-self: center;
+  margin-top: 5px;
+}
+
+.product-card {
+  background-color: lightblue;
+  width: 350px;
+  height: 100%;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  margin: 5px; /* Apply margin here */
+  border-radius: 5px;
+  margin-bottom: 5px;
+}
+
+.list {
+  list-style-type: none;
+  margin: 9px; /* Remove default margin from <li> */
+  height: 90%;
+}
+.title {
+  font-size: 15px;
+  padding: 5px;
+}
+
+.rate {
+  padding: 5px;
+}
+.price {
+  padding: 5px;
+}
