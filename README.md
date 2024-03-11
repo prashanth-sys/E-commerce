@@ -68,3 +68,37 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/d
 ### `npm run build` fails to minify
 
 This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+
+
+###
+Hi swiftsafe and nxtwave My Self, Prashanth I developed E-commerce website inspried by Amazon and other platforms etc.
+
+
+
+1. first i started it on CCBP IDE it is a react.js based project used coomad like ### npm install -g create-react-app, ### create-react-app myapp --use-npm, ### npm start.
+
+2. I got some data from other resorces like google etc. make that data formated using node.js database about e-commerce
+
+3. maked API for that data and used that data in react.js to fetched the data
+
+4. In react used some class components and other to develope that e-coomerce app
+
+5. Used Routing concept for navigaton purpose
+
+6. first it has a login page that page user should update with requried fileds
+
+7. It has a login and logout facilites
+
+8. In that hoem page used some images and nav bar like header component and some other button to make shopping
+
+9. The use should be go thorugh the shoping item with his needs and know more about the product when he clicks the item
+
+10. That is a reasonable price
+
+11. Used add to card item also and some error faced on that and i also resolved that
+
+12. This is about my project on E-commerce Some of things i need to do for more efficent but with less time i managed as that but making that
+
+13. E-coomerce
+
+Thankyou nxtwave for giving this oppurtinities. 
