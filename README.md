@@ -77,7 +77,7 @@ Hi swiftsafe and nxtwave My Self, Prashanth I developed E-commerce website inspr
 
 1. first i started it on CCBP IDE it is a react.js based project used coomad like ### npm install -g create-react-app, ### create-react-app myapp --use-npm, ### npm start.
 
-2. I got some data from other resorces like google etc. make that data formated using node.js database about e-commerce
+2. I got some data from other resorces like google etc. make that data formated using node.js database about e-commerce it takes so more time for making API in node.js and fetching data on that 
 
 3. maked API for that data and used that data in react.js to fetched the data
 
@@ -97,7 +97,7 @@ Hi swiftsafe and nxtwave My Self, Prashanth I developed E-commerce website inspr
 
 11. Used add to card item also and some error faced on that and i also resolved that
 
-12. This is about my project on E-commerce Some of things i need to do for more efficent but with less time i managed as that but making that
+12. This is about my project on E-commerce Some of things i need to do for more efficent but with less time i managed as that but making that 
 
 13. E-coomerce
 
